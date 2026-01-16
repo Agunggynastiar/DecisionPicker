@@ -1,0 +1,19 @@
+# Decision Picker Android App
+
+Aplikasi Android sederhana berbasis Java untuk memilih keputusan secara acak.
+
+## Fitur
+- CRUD (Create, Read, Update, Delete)
+- Random decision picker
+- Popup hasil pilihan
+- Android Java
+- Bisa di-install di HP
+
+## Teknologi
+- Java
+- Android Studio
+- XML Layout
+
+## Cara Install
+Install file APK di folder:
+app/build/outputs/apk/debug/app-debug.apk
